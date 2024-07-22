@@ -1,0 +1,10 @@
+[package]
+name = "ra-build-files-missing"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+protobuf = "3.5"
+
+[build-dependencies]
+protobuf-codegen = "3.5"
